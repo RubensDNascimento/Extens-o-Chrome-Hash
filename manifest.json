@@ -1,0 +1,21 @@
+{
+
+    "manifest_version": 2,
+    "name": "ComparaHash",
+    "version": "1.0",
+    "description": "compara hash das paginas web",
+  
+    "browser_action":{
+        "default_popup":"index.html"
+    }
+
+
+
+    /*"content_scripts": [
+    {
+        "matches": ["*://*.mozilla.org/*"],
+        "js": ["borderify.js"]
+    }
+    ]
+    */
+  }
